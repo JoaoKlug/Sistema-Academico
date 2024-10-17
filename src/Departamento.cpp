@@ -1,4 +1,4 @@
-#include "stdfax.h"
+#include "stdfxa.h"
 #include "Departamento.h"
 #include "Universidade.h"
 

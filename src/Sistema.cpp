@@ -1,4 +1,4 @@
-#include "stdfax.h"
+#include "stdfxa.h"
 #include "Sistema.h"
 
 Sistema::Sistema():
